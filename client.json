@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "newsbot-ddmg",
+  "private_key_id": "3c6a3f7cd441d69328a5fa0d7bc84acd897e5804",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuz6CRccr4V93d\n/KjKiljsn79606/5WpqpE8k+kQkUskHonnnybEdyjn40ufZO3JvrzKUAHU4jpwuJ\nBDkGVineygj2+1mmjRBInv5jozg7R4JIJIagKUTyDxXO/G+jRWC3QBOD3ZXkxCN1\np/qeYjnV1E9MEUkdXKh5xrlRtFYQNNO69MZySu+/I47mWbDXtIl4TSMOQa3ziogZ\nWHmHB0QCEBPYMbP8iDxpotIFVIzWJi3feU3jWYKX1VYF8EFWP0w/fNSwp2MWKQ3x\nLPyH1/3YU3VcfAciYPeRC8DyZysK87wtbVBtMpszp3iMv2XPvOZ0i3AWedmSWG5k\nzSRX1bYnAgMBAAECggEAR2/18DoOdhqCQptj5xFOcbR+rZUgjsgl9/5r+TOQAHMw\nV/2bXCQ/tmLg1G9CZsvktCH3M+rF6e/z2NRu8VX42mC59SSWaGexRdwjnVgwPJlm\ndlDm60CyOjFL+kBS5ugNNBXtY7AD927oBsbUtjDx7Z5LoYxW0rbw6oL5bJhDq28e\nF2siDOH3N26osQoX7NUsz/fknmBtbgEg0neFvn/9OTyRlz5IgvtsbKEfh0N4cO0Y\nkc/YLqsAgnaq3COK7VXsZWb+AQvuWHGh9rdOm5bIlp6dj5gz35MswnOzzd/U6tHp\ncnKhNW8yjb5wjHenyE+ylCYNHN8s5MqPe34jR2d6sQKBgQDdyIZo0Q2ZYinIY5RV\nwe9REaL/lUsoAdwOYsOyAKNnn9AVmZ/d/5mY76vZbVGA25ng4+vNBKF61L3r+loT\nGC86tkuT+Ozt2+FHdHDMaSu8TD0nGkEi2G4LzVT+mZyx101sLSQ7JRITnIp6Mxch\nEm6pCWxX9WHDkUgtxrhKdY+uGwKBgQDJx+cKEWGykl8dendspR7iSSQGZHp0JEed\nypziFCXFPXhhnjb+JDMkQAsoTpKe5Dkz2pJIZH2T0hZZooh7gZibYNKNIRWiXCzz\nKTzVuX2gkOSoAzPXsVNJxJbBG7btkAklf/gkyQgAkyV/eqH5/beCrpSYqlDAfiJa\nmPFJF/xo5QKBgFDTX4ibh2U6zRdmkwyd3OWik9CpS/aMlvH3NHKOoP6G04LLteNl\n30hJMEvQ9z8KyQ2Ygrr40RC+r2hsmJ8U1UGEZg7LTS1yUKuF2AXm3jWFY1P40Xwt\nfA15C1yuBtkZKfIekXGslOXoyt6199vpp8Ka2I1FtBddvvxPy6H3LiG5AoGARTBO\ngJ1FKr4V7z23BYH4/Q6nU6nQc1KdW/XFpZ/S87cIODDQGoS/JIbxTHjkvab0Flu0\nHS6YAL/g+gtJUVA2y9B/YfUePfXtU9OoEIDyGsSUIyg19pfPP1QxfTXLm9nvyPQA\nWly0ab4K9ZNPRzFAY4cJXO/JkLevf/FBixa2biECgYEAy8sQgx8ttVVk+F7c/0+Z\nVDLsnEBJkUFAaPWma0G+qyTWHHtpixoj6EmFtuo6Lxd4259oEjWQ1avyaqVSFW5e\n4vAiFDwM+7NyhqxNWpuR5lT0b2l4vtlSt2J9TUXyWREYdTdiP8oQAtiEivMvZuxD\nj7JAG7Cm/J8Dk/DFrXxxXWk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "newsbot-muskan@newsbot-ddmg.iam.gserviceaccount.com",
+  "client_id": "113722018511361105684",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/newsbot-muskan%40newsbot-ddmg.iam.gserviceaccount.com"
+}

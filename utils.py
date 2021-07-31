@@ -1,5 +1,5 @@
 import os
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"C:\Users\muska\Downloads\client.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "client.json"
 
 import dialogflow_v2 as dialogflow
 dialogflow_session_client = dialogflow.SessionsClient()
