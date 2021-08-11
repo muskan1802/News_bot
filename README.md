@@ -1,6 +1,6 @@
 # Telegram_News-Bot
 # Introduction 
-News-bot is a telegram bot which will show you news from any country, in any language about topics specified by you. All you have to do is either select news and then choose category or ask the bot like "show me sports news from india in hinid".
+News-bot is a telegram bot which will show you news from any country, in any language about topics specified by you. All you have to do is either select news and then choose category or ask the bot like "show me sports news from india in hindi".
 # About the Bot
 # Features
 * This bot is trained to fetch news from any **country** and in **any language**.
